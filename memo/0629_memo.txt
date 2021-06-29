@@ -1,0 +1,6 @@
+0629
+
+todo
+pandas리뷰
+folium 지도
+알고리즘 공부
