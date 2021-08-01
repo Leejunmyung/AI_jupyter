@@ -6,6 +6,7 @@
 | week3|titanic & california_house & plotly 실습|
 | week4|titanic 머신러닝 예측 & bike 실습|
 | project1|기후변화의 영향 프로젝트|
+
 ![로고](https://ifh.cc/g/QncW1O.png)
 
 
